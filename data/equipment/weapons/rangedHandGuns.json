@@ -1,0 +1,22 @@
+{
+    "Defiler": {
+        "bossWeapon": "Harrow",
+        "world": "Rhom",
+        "howToObtain": "Crafted by McCabe in Ward 13",
+        "craftingMaterial": [["Thermal Geode", 1], ["Lumenite Crystal", 1]],
+        "description": "Fires a spread of 11 projectiles in a star shaped pattern.",
+        "flavorText": "Only the Akari know how much knowledge has been lost, but much can still be made of this whithered, irradiated world.",
+        "damage": 52,
+        "maxLevel": 10,
+        "percentIncrease": 0.2,
+        "element": "radioactive",
+        "weaponMod": "Radioactive Volley",
+        "rps": 2,
+        "magazine": 6,
+        "idealRange": 13,
+        "maxAmmo": 36,
+        "criticalHitChance": 5,
+        "weakspotBonus": 100,
+        "tags": ["elemental", "radioactive", "bossWeapon", "shotgun"]
+    }
+}
